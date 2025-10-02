@@ -1,1 +1,1 @@
-# Encryption-algo
+# Encryption-algo The function arranges the string (without spaces) in a grid with dimensions rows x cols based on the square root of the string length, then reads the characters column-wise. It concatenates the column characters into words separated by spaces to form the encrypted message.
